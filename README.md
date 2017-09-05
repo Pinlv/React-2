@@ -6,5 +6,4 @@
 要不然会有跨域问题
 <br/>
 <br/>
-npm http-server
-  
+npm http-server -g  请记得加-g
